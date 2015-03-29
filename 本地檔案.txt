@@ -1,1 +1,8 @@
 ﻿本地push到github
+
+
+我是userA
+衝突測試，我先push這個上去，然後另一個userB 使用github2裡的舊版本，編輯後push，
+然後就會發生衝突
+
+除非他先pull，才能成功push
